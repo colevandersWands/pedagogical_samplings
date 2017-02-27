@@ -1,4 +1,3 @@
-for the next three days:
 Concepts:
 	inheritance
 	classes
@@ -6,10 +5,10 @@ Concepts:
 	'single page' apps
 Skills:
 	modeling with objects
+	serving js mvc micro-apps
 Tools:
 	class syntax
-	traceur (?)
+	browserify
+	babel
 Deliverables:
-	a simple OO program
-	a web app to run it
-	some good examples you wrote
+	a simple OO app plugin for your projects
