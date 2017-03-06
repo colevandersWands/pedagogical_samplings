@@ -144,6 +144,10 @@ CONTROLLER: moderates the view and model classes
       args: the key to be removed
       returns: nope
       behavior: removes the selected item and displays the new database
+    postToServer:
+      args: a final cart object
+      returns: nothing
+      behavior: send a post request to the server
 */
 class Controller {
 	constructor(model, view) {

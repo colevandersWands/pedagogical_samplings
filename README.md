@@ -1,6 +1,55 @@
 let's science teaching:    learning != doing
 
 
+(1) Read Shafto et al pedagogy model paper + any extra relevant stuff, just to make sure we're on approximate the same page
+	I got a whole list - It'll be in articles
+	
+(2) You come up with list of concrete cases of conceptual misalignment that you've encountered in your own personal teaching work; don't screen for whether or not they're 'good' or 'meaningful' but just try and put down as many things as you can think of. Preferably these are in some format in which there exist notes that I can read over -- even if they don't fully describe the cases.
+	in examples.md
+
+(3) We go over these cases together (via skype or something), and take a pass over distilling the most interesting cases or what we think is the deepest shit that's happening here.
+	
+
+(4) We put together a first pass over experiment idea / model
+
+(5) I present the idea to Sam, get feedback
+
+(6) We iterate on steps 4 and 5 until we have something that's approved for implementation.
+
+(7) We implement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 weekend's goal:  skim literature review, selection of principles to apply for classes/reactish project
 	worked examples
 		selected by what criteria?
@@ -80,3 +129,4 @@ https://github.com/easy-deep-learning
 https://github.com/scotch-io
 	sift through
  
+https://github.com/GoogleChrome/samples	
